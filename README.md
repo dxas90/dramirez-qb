@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
 
 ### 📫 How to reach me
-[![linkedin][linkedin-badge]][linkedin] [![codersrank][codersrank-badge]][codersrank] [![gmail][gmail-badge]][gmail] [![telegram][telegram-badge]][telegram]
+[![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail] [![telegram][telegram-badge]][telegram]
 
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [current]: https://github.com/Quickbase
 [linkedin]: https://www.linkedin.com/in/daniel-ramirez-1990/
-[linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
+[linkedin-badge]: https://img.shields.io/badge/linkedin-daniel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 [dev-to-badge]: https://img.shields.io/badge/DEV-dxas90-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white
 [dev-to]: https://dev.to/dxas90
 [telegram]: https://t.me/dxas90
