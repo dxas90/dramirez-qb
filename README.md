@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 [gmail]: mailto:dxas90@gmail.com
 [gmail-badge]: https://img.shields.io/badge/gmail-dxas90-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white
 [discord-badge]: https://img.shields.io/badge/discord-0[%2B__--]0%20Hashirama%232519-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white
-[gh-years-badge]: https://badges.pufler.dev/years/dxas90?style=for-the-badge&label=Github%20Years
-[gh-visits-badge]: https://badges.pufler.dev/visits/dxas90/dxas90?style=for-the-badge
-[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=dxas90&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true
-[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dxas90&layout=compact&hide=smarty&theme=vue-dark&card_width=230
+[gh-years-badge]: https://badges.pufler.dev/years/dramirez-qb?style=for-the-badge&label=Github%20Years
+[gh-visits-badge]: https://badges.pufler.dev/visits/dramirez-qb/dramirez-qb?style=for-the-badge
+[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=dramirez-qb&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true
+[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dramirez-qb&layout=compact&hide=smarty&theme=vue-dark&card_width=230
 [codersrank]: https://profile.codersrank.io/user/dxas90?utm_source=github&utm_medium=referral&utm_campaign=self
 [codersrank-badge]: https://img.shields.io/badge/codersrank-dxas90-%2367A4AC.svg?&style=for-the-badge&logo=codersrank
 [profile]: https://github.com/dxas90
