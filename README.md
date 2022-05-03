@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![Github Stats][gh-stats-section]][linkedin] [![Github Languages][gh-languages-section]][linkedin]
 
+
 [current]: https://github.com/Quickbase
 [linkedin]: https://www.linkedin.com/in/daniel-ramirez-1990/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-daniel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
@@ -43,5 +44,6 @@ Here are some ideas to get you started:
 [codersrank]: https://profile.codersrank.io/user/dxas90?utm_source=github&utm_medium=referral&utm_campaign=self
 [codersrank-badge]: https://img.shields.io/badge/codersrank-dxas90-%2367A4AC.svg?&style=for-the-badge&logo=codersrank
 [profile]: https://github.com/dxas90
+[steam-profile]: https://steamdb.info/calculator/76561198833986921/?cc=eu
 
 <!--![Discord][discord-badge]-->
