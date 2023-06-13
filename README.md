@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
-
-[![Github Stats][gh-stats-section]][linkedin] [![Github Languages][gh-languages-section]][linkedin]
+<!--
+[![Github Stats][gh-stats-section]][linkedin] 
+-->
+[![Github Languages][gh-languages-section]][linkedin]
 
 
 [current]: https://github.com/Quickbase
