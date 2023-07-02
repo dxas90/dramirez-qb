@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
 
 ### 📫 How to reach me
-[![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail] [![telegram][telegram-badge]][telegram]
-
+[![linkedin][linkedin-badge]][linkedin] 
+<!--
+[![gmail][gmail-badge]][gmail] [![telegram][telegram-badge]][telegram]
+-->
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
 <!--
